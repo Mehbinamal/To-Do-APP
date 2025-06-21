@@ -1,16 +1,26 @@
-# increment
+# To-Do List App
 
-A new Flutter project.
+A simple Flutter app to manage your daily tasks.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Add tasks using a TextField and button
+- View all tasks in a scrollable ListView
+- Delete tasks using a delete icon
+- Basic UI styling with cards and colors
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is a starting point for building Flutter apps with state management and user interaction.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+- Flutter SDK installed
+- Emulator or physical device connected
+- A code editor like VS Code or Android Studio
+
+### Run the app
+
+```bash
+flutter pub get
+flutter run
